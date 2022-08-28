@@ -1018,3 +1018,7 @@ body {
     fill: var(--second-blue-color);
   }
 
+.icon-subscribe{
+fill: var(--white)
+}
+
